@@ -2,3 +2,5 @@ node_modules/
 public/excel/*.xlsx
 db/backup/
 *.swp
+
+.idea/*
